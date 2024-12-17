@@ -15,4 +15,8 @@
     .rounded-5xl{
         border-radius: 1.5rem;
     }
+
+    .ml-58 {
+    margin-left: 14.5rem /* 240px */;
+}
 }

@@ -20,12 +20,12 @@ const Main = () => {
 
           
             <div className='icons flex mt-20'>
-              <h1 className='text-white font-inter font-semibold  text-xl mt-4 ml-60'>Connect with me !</h1>
-              <div className='absolute flex gap-4 mt-14 ml-64 '>
-                <a href="https://linkedin.com/in/meyyappan-l">< img className="w-6" src={linkedin} alt="linkedin" /></a>
-                <a href="https://github.com/meyyappan055">< img className='w-6' alt="github" src={github} /></a>
-                <a href="mailto:meyyappan055@gmail.com">< img className='w-7' alt="mail" src={mail} /></a>
-                <a href="">< img className='w-6' alt="instagram" src={instagram} /></a>
+              <h1 className='text-white font-inter font-semibold  text-xl mt-4 ml-58'>Connect with me !</h1>
+              <div className='absolute flex gap-4 mt-14 ml-58 '>
+                <a href="https://linkedin.com/in/meyyappan-l">< img className="w-7 ml-1" src={linkedin} alt="linkedin" /></a>
+                <a href="https://github.com/meyyappan055">< img className='w-7' alt="github" src={github} /></a>
+                <a href="mailto:meyyappan055@gmail.com">< img className='w-8' alt="mail" src={mail} /></a>
+                <a href="">< img className='w-7' alt="instagram" src={instagram} /></a>
                 
               </div>
               
@@ -37,7 +37,7 @@ const Main = () => {
             <h1 className='font-inter font-bold ml-8 mt-8 text-5xl'>Tech Stack</h1>
           </div>
 
-          <div className="flex flex-wrap gap-6 p-5 mt-6 ml-8 shadow-2xl">
+          <div className="flex flex-wrap gap-6 p-5 mt-8 ml-8 shadow-2xl">
             <div className="flex flex-col items-center">
               <img src={python} alt="python" className="w-12 h-12" />
               <p className="mt-2 text-black text-lg font-bold text-center ">Python</p>
@@ -106,6 +106,11 @@ const Main = () => {
             </div>
           </div>
 
+          <div>
+              <a href=""> {/* will link resume later*/}
+                <button className='text-black bg-blue font-inter font-bold text-2xl ml-10 mt-32 rounded-2xl shadow-2xl shadow-zinc-700 p-3'>Résumé</button>
+              </a>
+            </div>
         </div>
         
     </section>
