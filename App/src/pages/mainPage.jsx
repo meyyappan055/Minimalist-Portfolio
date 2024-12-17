@@ -22,9 +22,9 @@ const Main = () => {
             <div className='icons flex mt-20'>
               <h1 className='text-white font-inter font-semibold  text-xl mt-4 ml-60'>Connect with me !</h1>
               <div className='absolute flex gap-4 mt-14 ml-64 '>
-                <a href="">< img className="w-6" src={linkedin} alt="linkedin" /></a>
-                <a href="">< img className='w-6' alt="github" src={github} /></a>
-                <a href="">< img className='w-7' alt="mail" src={mail} /></a>
+                <a href="https://linkedin.com/in/meyyappan-l">< img className="w-6" src={linkedin} alt="linkedin" /></a>
+                <a href="https://github.com/meyyappan055">< img className='w-6' alt="github" src={github} /></a>
+                <a href="mailto:meyyappan055@gmail.com">< img className='w-7' alt="mail" src={mail} /></a>
                 <a href="">< img className='w-6' alt="instagram" src={instagram} /></a>
                 
               </div>
