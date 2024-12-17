@@ -1,10 +1,10 @@
-import Main from './pages/main'
+import MainPage from './pages/mainPage'
 
 function App() {
 
   return (
     <>
-      <Main />
+      <MainPage />
     </>
   )
 }
