@@ -2,7 +2,7 @@ import React from 'react';
 import profile_pic from "../assets/profile_pic.jpg";
 import linkedin from "../assets/linkedin.svg";
 import github from "../assets/github.svg";
-import instagram from "../assets/instagram.svg";
+import instagram from "../assets/Instagram.svg";
 import mail from "../assets/mail.svg";
 import { bootstrap, css3, javascript, tailwindcss, c, cplusplus, docker, express, git, githubicon, html5, mongodb, mysql, python , fastapi} from "../assets/devicons/index.js";
 
